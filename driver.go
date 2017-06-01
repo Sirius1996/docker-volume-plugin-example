@@ -6,8 +6,8 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/Sirupsen/logrus"
-	"github.com/docker/go-plugins-helpers/volume"
+	"https://wwww.github.com/Sirupsen/logrus"
+	"https://github.com/docker/go-plugins-helpers/volume"
 )
 
 type ExampleDriver struct {
